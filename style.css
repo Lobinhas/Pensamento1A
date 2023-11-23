@@ -5,7 +5,7 @@ background-color: lightblue;
 #titulo{
 font-size: 30px;
 text-align: center;
-color: pink;
+color: rgb(172, 64, 82);
 }
 .texto { 
 font-size: 20px;
@@ -19,4 +19,6 @@ display: block;
 padding: 10px;
 margin: auto;
 }
-.avatar
+.avatar {
+background-image: linear-gradient(pink);
+color: blue;
