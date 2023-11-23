@@ -22,3 +22,7 @@ margin: auto;
 .avatar {
 background-image: linear-gradient(pink);
 color: blue;
+}
+.banner {
+font-size: 20px;  
+  
